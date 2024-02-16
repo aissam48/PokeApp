@@ -2,7 +2,7 @@
 
 Application consisting from one activity and two screen you can navigate between them by compose navigation,
 
-First screen has list of pokemon by desplayin name, alsoit has pagination (offset, limit)
+First screen has list of pokemon by desplaying name, also it has pagination (offset, limit)
 
 Second screen has details of pokemon, name, image front and back, wight, order, types, abilities, moves,
 
