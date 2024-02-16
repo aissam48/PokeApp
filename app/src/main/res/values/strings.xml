@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PokeApp</string>
+
+    <string name="error_message_at_server">Oops! We are currently experiencing some technical difficulties</string>
+    <string name="title_activity_pokemons_list">PokemonsList</string>
+    <string name="title_activity_pokemon_details">PokemonDetailsActivity</string>
+    <string name="details_screen_weight_label">"Wight : "</string>
+    <string name="details_screen_order_label">"Order : "</string>
+    <string name="details_screen_weight_types">Types</string>
+    <string name="details_screen_weight_abilities">Abilities</string>
+    <string name="details_screen_weight_moves">Moves</string>
+    <string name="reload">Reload</string>
+    <string name="pokemon_list">Pokemon list</string>
+
+</resources>
